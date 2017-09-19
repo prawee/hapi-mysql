@@ -1,0 +1,25 @@
+{
+  "name": "hapi-mysql",
+  "version": "1.0.0",
+  "description": "RESTful with Hapi and MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawee/hapi-mysql.git"
+  },
+  "keywords": [
+    "Hapi",
+    "RESTFul",
+    "Node",
+    "MySQL"
+  ],
+  "author": "Prawee Wongsa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prawee/hapi-mysql/issues"
+  },
+  "homepage": "https://github.com/prawee/hapi-mysql#readme"
+}
